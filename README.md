@@ -1,0 +1,2 @@
+# seymour
+learning and projects 
